@@ -722,6 +722,7 @@ section {
 }
 
 .modal-textarea-wrapper {
+  margin-bottom: 16px;
 }
 .modal-textarea {
   color: rgba(46, 47, 66, 0.4);
