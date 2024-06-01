@@ -724,7 +724,7 @@ section {
 .modal-textarea-wrapper {
 }
 .modal-textarea {
-  color: color: rgba(46, 47, 66, 0.4);
+  color: rgba(46, 47, 66, 0.4);
   font-size: 12px;
   width: 100%;
   border-radius: 4px;
@@ -732,6 +732,7 @@ section {
   resize: none;
   min-height: 120px;
   outline: transparent;
+  background-color: transparent;
   line-height: 1.17;
   letter-spacing: 0.04em;
   padding: 8px 16px;
@@ -744,7 +745,7 @@ section {
 }
 
 .modal-textarea::placeholder {
-  border-color: #4D5AE5;
+  border-color: #4d5ae5;
 }
 
 .modal-checkbox-container {
